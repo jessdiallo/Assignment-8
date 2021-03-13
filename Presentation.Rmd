@@ -1,0 +1,47 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Jessica Diallo<br>jodiallo@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+
+- I was born in St. Paul, Minnesota
+- My favorite food is hummus
+- My favorite animal is the sturgeon
+
+## About me | Academic
+
+- My undergraduate institution was the University of Wisconsin-Madison
+- My majors at UW-Madison were Biology and Environmental Studies
+
+## About me | Things I've missed during the pandemic
+
+- Having backyard bbq's with friends
+- Traveling long or short distances 
+- Being able to hug people
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+
+- The basics of using GitHub (I had never really used it before)
+- How to use R Markdown for reports and presentations
+- Basic principles about data science
+
+## Course topics | 3 things I'd like to learn more about
+
+- Shiny apps, especially as a tool for agency scientists to apply academic science
+- More experience with managing large relational databases
+- Building custom websites using R Markdown and GitHub
+
+## {data-background=IMG_0931.jpg data-background-size=cover}
+
+
